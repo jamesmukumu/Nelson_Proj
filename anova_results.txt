@@ -1,0 +1,3 @@
+              Df Sum Sq Mean Sq F value Pr(>F)
+Player         1    4.3   4.271   1.975   0.16
+Residuals   1412 3054.0   2.163               

@@ -1,0 +1,361 @@
+"","Tournament","Matchday","Date","Venue","Club","Opponent","Result","Position","Minute","When.Scored","Goal.Type","Assist","Score_Home","Score_Away"
+"1","Paulistão A1 - Primeira Fase ","14","3/16/09","Home","Santos FC","Mogi Mirim EC","3:0","LW",73,"3:0","Not reported","Not Applicable",3,0
+"2","Copa do Brasil ","1.Runde","3/19/09","Home","Santos FC","Rio Branco Football Club (AC)","4:0","Not Applicable",59,"1:0","Not reported","Not Applicable",4,0
+"3","Paulistão A1 - Primeira Fase ","16","3/26/09","Home","Santos FC","EC Santo André","3:0","Not Applicable",66,"3:0","Not reported","Not Applicable",3,0
+"4","Paulistão A1 - Fase Final ","Halbfinale","4/11/09","Home","Santos FC","Sociedade Esportiva Palmeiras","2:1","Not Applicable",46,"2:1","Not reported","Not Applicable",2,1
+"5","Série A ","7","6/21/09","Home","Santos FC","Clube Atlético Mineiro","2:3","Not Applicable",45,"1:0","Left-footed shot","Not Applicable",2,3
+"6","Série A ","11","7/15/09","Home","Santos FC","Grêmio Barueri Futebol Ltda.","3:3","Not Applicable",88,"3:3","Header","Luizinho",3,3
+"7","Série A ","13","7/22/09","Home","Santos FC","Atlético Paranaense","1:0","Not Applicable",72,"1:0","Left-footed shot","Roni",1,0
+"8","Série A ","15","7/29/09","Away","Santos FC","Clube Náutico Capibaribe","1:2","Not Applicable",67,"0:1","Header","Madson",1,2
+"9","Série A ","34","11/7/09","Home","Santos FC","Clube Náutico Capibaribe","3:1","Not Applicable",58,"2:0","Right-footed shot","Madson",3,1
+"10","Série A ","34","11/7/09","Home","Santos FC","Clube Náutico Capibaribe","3:1","Not Applicable",89,"3:1","Left-footed shot","Madson",3,1
+"11","Série A ","35","11/15/09","Away","Santos FC","Sport Club Internacional","3:1","Not Applicable",63,"2:1","Right-footed shot","Felipe Azevedo",3,1
+"12","Série A ","36","11/22/09","Home","Santos FC","Coritiba Foot Ball Club","4:0","Not Applicable",64,"3:0","Left-footed shot","Madson",4,0
+"13","Série A ","36","11/22/09","Home","Santos FC","Coritiba Foot Ball Club","4:0","Not Applicable",88,"4:0","Right-footed shot","Ganso",4,0
+"14","Série A ","38","12/6/09","Home","Santos FC","Cruzeiro Esporte Clube","1:2","Not Applicable",70,"1:1","Right-footed shot","Not Applicable",1,2
+"15","Paulistão A1 - Primeira Fase ","1","1/18/10","Away","Santos FC","Rio Branco EC (SP)","0:4","Not Applicable",20,"0:2","Not reported","Not Applicable",0,4
+"16","Paulistão A1 - Primeira Fase ","1","1/18/10","Away","Santos FC","Rio Branco EC (SP)","0:4","Not Applicable",89,"0:4","Not reported","Not Applicable",0,4
+"17","Paulistão A1 - Primeira Fase ","4","1/28/10","Home","Santos FC","Grêmio Barueri Futebol Ltda.","5:0","Not Applicable",78,"4:0","Not reported","Not Applicable",5,0
+"18","Paulistão A1 - Primeira Fase ","4","1/28/10","Home","Santos FC","Grêmio Barueri Futebol Ltda.","5:0","Not Applicable",86,"5:0","Penalty","Not Applicable",5,0
+"19","Paulistão A1 - Primeira Fase ","5","1/31/10","Home","Santos FC","Oeste FC","2:0","Not Applicable",902,"2:0","Not reported","Not Applicable",2,0
+"20","Paulistão A1 - Primeira Fase ","6","2/5/10","Away","Santos FC","EC Santo André","1:2","Not Applicable",24,"0:1","Not reported","Not Applicable",1,2
+"21","Paulistão A1 - Primeira Fase ","7","2/7/10","Away","Santos FC","São Paulo Futebol Clube","1:2","Not Applicable",38,"0:1","Penalty","Not Applicable",1,2
+"22","Paulistão A1 - Primeira Fase ","11","2/28/10","Home","Santos FC","Sport Club Corinthians Paulista","2:1","Not Applicable",33,"1:0","Not reported","Not Applicable",2,1
+"23","Copa do Brasil ","1.Runde","3/11/10","Home","Santos FC","Clube Esportivo Naviraiense (MS)","10:0","Not Applicable",28,"3:0","Solo run","Robinho",10,0
+"24","Copa do Brasil ","1.Runde","3/11/10","Home","Santos FC","Clube Esportivo Naviraiense (MS)","10:0","Not Applicable",54,"7:0","Solo run","Giovanni",10,0
+"25","Paulistão A1 - Primeira Fase ","14","3/14/10","Home","Santos FC","Sociedade Esportiva Palmeiras","3:4","Not Applicable",30,"2:0","Not reported","Not Applicable",3,4
+"26","Copa do Brasil ","2.Runde","3/19/10","Away","Santos FC","Clube do Remo (PA)","0:4","Not Applicable",21,"0:1","Not reported","Not Applicable",0,4
+"27","Copa do Brasil ","2.Runde","3/19/10","Away","Santos FC","Clube do Remo (PA)","0:4","Not Applicable",81,"0:4","Penalty","Not Applicable",0,4
+"28","Paulistão A1 - Primeira Fase ","18","4/4/10","Away","Santos FC","AD São Caetano (SP)","1:3","Not Applicable",67,"1:2","Not reported","Not Applicable",1,3
+"29","Copa do Brasil ","Achtelfinale","4/15/10","Home","Santos FC","Guarani Futebol Clube (SP)","8:1","Not Applicable",2,"1:0","Penalty","Not Applicable",8,1
+"30","Copa do Brasil ","Achtelfinale","4/15/10","Home","Santos FC","Guarani Futebol Clube (SP)","8:1","Not Applicable",29,"2:0","Not reported","Not Applicable",8,1
+"31","Copa do Brasil ","Achtelfinale","4/15/10","Home","Santos FC","Guarani Futebol Clube (SP)","8:1","Not Applicable",38,"4:0","Not reported","Not Applicable",8,1
+"32","Copa do Brasil ","Achtelfinale","4/15/10","Home","Santos FC","Guarani Futebol Clube (SP)","8:1","Not Applicable",81,"7:1","Not reported","Not Applicable",8,1
+"33","Copa do Brasil ","Achtelfinale","4/15/10","Home","Santos FC","Guarani Futebol Clube (SP)","8:1","Not Applicable",84,"8:1","Not reported","Not Applicable",8,1
+"34","Paulistão A1 - Fase Final ","Halbfinale","4/18/10","Home","Santos FC","São Paulo Futebol Clube","3:0","Not Applicable",59,"1:0","Not reported","Not Applicable",3,0
+"35","Paulistão A1 - Fase Final ","Halbfinale","4/18/10","Home","Santos FC","São Paulo Futebol Clube","3:0","Not Applicable",84,"2:0","Penalty","Not Applicable",3,0
+"36","Paulistão A1 - Fase Final ","Finale","4/25/10","Home","Santos FC","EC Santo André","2:3","Not Applicable",7,"1:1","Not reported","Not Applicable",2,3
+"37","Paulistão A1 - Fase Final ","Finale","4/25/10","Home","Santos FC","EC Santo André","2:3","Not Applicable",32,"2:2","Not reported","Not Applicable",2,3
+"38","Copa do Brasil ","Viertelfinale","5/6/10","Home","Santos FC","Clube Atlético Mineiro","3:1","Not Applicable",44,"2:0","Not reported","Not Applicable",3,1
+"39","Série A ","1","5/8/10","Away","Santos FC","Botafogo de Futebol e Regatas","3:3","Not Applicable",29,"1:1","Right-footed shot","Marquinhos",3,3
+"40","Série A ","2","5/16/10","Home","Santos FC","Ceará Sporting Club","1:1","Not Applicable",38,"1:1","Not reported","Neymar",1,1
+"41","Série A ","4","5/26/10","Home","Santos FC","Guarani Futebol Clube (SP)","3:1","Not Applicable",2,"1:0","Right-footed shot","Ganso",3,1
+"42","Copa do Brasil ","Finale","7/29/10","Home","Santos FC","Esporte Clube Vitória","2:0","Not Applicable",14,"1:0","Chest","Pará",2,0
+"43","Série A ","15","8/22/10","Home","Santos FC","Clube Atlético Mineiro","2:0","Not Applicable",55,"1:0","Penalty","Not Applicable",2,0
+"44","Série A ","16","8/25/10","Away","Santos FC","Grêmio Foot-Ball Porto Alegrense","1:2","Not Applicable",68,"1:1","Penalty","Not Applicable",1,2
+"45","Série A ","18","9/2/10","Home","Santos FC","Avaí FC","2:1","Not Applicable",1,"1:0","Right-footed shot","Not Applicable",2,1
+"46","Série A ","24","9/22/10","Home","Santos FC","Sport Club Corinthians Paulista","2:3","Not Applicable",27,"2:1","Tap-in","Marcel",2,3
+"47","Série A ","25","9/25/10","Home","Santos FC","Cruzeiro Esporte Clube","4:1","Not Applicable",901,"4:1","Right-footed shot","Not Applicable",4,1
+"48","Série A ","13","10/13/10","Home","Santos FC","Sport Club Internacional","1:0","Not Applicable",27,"1:0","Left-footed shot","Danilo",1,0
+"49","Série A ","30","10/17/10","Away","Santos FC","São Paulo Futebol Clube","4:3","Not Applicable",70,"3:3","Penalty","Not Applicable",4,3
+"50","Série A ","33","11/3/10","Home","Santos FC","Esporte Clube Vitória","1:1","Not Applicable",33,"1:0","Right-footed shot","Marquinhos",1,1
+"51","Série A ","34","11/7/10","Away","Santos FC","Clube Atlético Mineiro","2:2","Not Applicable",17,"0:1","Right-footed shot","Not Applicable",2,2
+"52","Série A ","34","11/7/10","Away","Santos FC","Clube Atlético Mineiro","2:2","Not Applicable",67,"2:2","Right-footed shot","Not Applicable",2,2
+"53","Série A ","36","11/21/10","Away","Santos FC","Goiás EC","1:4","Not Applicable",75,"1:2","Penalty","Not Applicable",1,4
+"54","Série A ","36","11/21/10","Away","Santos FC","Goiás EC","1:4","Not Applicable",79,"1:3","Right-footed shot","Not Applicable",1,4
+"55","Série A ","36","11/21/10","Away","Santos FC","Goiás EC","1:4","Not Applicable",82,"1:4","Right-footed shot","Felipe Anderson",1,4
+"56","Série A ","37","11/28/10","Away","Santos FC","Avaí FC","3:2","Not Applicable",32,"0:2","Right-footed shot","Arouca",3,2
+"57","Paulistão A1 - Primeira Fase ","12","3/10/11","Home","Santos FC","Portuguesa","3:0","Not Applicable",41,"1:0","Not reported","Not Applicable",3,0
+"58","Paulistão A1 - Primeira Fase ","12","3/10/11","Home","Santos FC","Portuguesa","3:0","Not Applicable",50,"2:0","Not reported","Not Applicable",3,0
+"59","Libertadores ","Gruppenphase","3/17/11","Away","Santos FC","CSD Colo-Colo","3:2","Not Applicable",49,"3:2","Left-footed shot","Ganso",3,2
+"60","Libertadores ","Gruppenphase","4/7/11","Home","Santos FC","CSD Colo-Colo","3:2","Not Applicable",52,"3:0","Left-footed shot","Not Applicable",3,2
+"61","Libertadores ","Gruppenphase","4/20/11","Home","Santos FC","Deportivo Táchira","3:1","SS",4,"1:0","Right-footed shot","Léo",3,1
+"62","Paulistão A1 - Fase Final ","Viertelfinale","4/23/11","Home","Santos FC","Associação Atlética Ponte Preta","1:0","Not Applicable",21,"1:0","Not reported","Not Applicable",1,0
+"63","Paulistão A1 - Fase Final ","Finale","5/15/11","Home","Santos FC","Sport Club Corinthians Paulista","2:1","Not Applicable",83,"2:0","Not reported","Not Applicable",2,1
+"64","Libertadores ","Viertelfinale","5/19/11","Home","Santos FC","Once Caldas","1:1","SS",11,"1:0","Not reported","Not Applicable",1,1
+"65","Libertadores ","Halbfinale","6/2/11","Away","Santos FC","Club Cerro Porteño","3:3","Not Applicable",452,"1:3","Right-footed shot","Arouca",3,3
+"66","Libertadores ","Finale","6/23/11","Home","Santos FC","CA Peñarol","2:1","Not Applicable",47,"1:0","Right-footed shot","Arouca",2,1
+"67","Série A ","12","7/27/11","Home","Santos FC","CR Flamengo","4:5","SS",26,"3:0","Right-footed shot","Borges",4,5
+"68","Série A ","12","7/27/11","Home","Santos FC","CR Flamengo","4:5","SS",51,"4:3","Right-footed shot","Léo",4,5
+"69","Série A ","13","7/31/11","Away","Santos FC","Atlético Paranaense","3:2","Not Applicable",13,"2:1","Left-footed shot","Not Applicable",3,2
+"70","Série A ","18","8/21/11","Away","Santos FC","Esporte Clube Bahia","1:2","Not Applicable",3,"0:1","Penalty","Not Applicable",1,2
+"71","Série A ","27","10/1/11","Away","Santos FC","Fluminense Football Club","3:2","Not Applicable",32,"0:1","Right-footed shot","Rafael Cabral",3,2
+"72","Série A ","21","10/19/11","Home","Santos FC","Botafogo de Futebol e Regatas","2:0","Not Applicable",15,"1:0","Solo run","Not Applicable",2,0
+"73","Série A ","31","10/23/11","Away","Santos FC","CR Flamengo","1:1","Not Applicable",48,"0:1","Penalty","Not Applicable",1,1
+"74","Série A ","32","10/29/11","Home","Santos FC","Atlético Paranaense","4:1","Not Applicable",2,"1:0","Penalty","Not Applicable",4,1
+"75","Série A ","32","10/29/11","Home","Santos FC","Atlético Paranaense","4:1","Not Applicable",54,"2:1","Penalty","Not Applicable",4,1
+"76","Série A ","32","10/29/11","Home","Santos FC","Atlético Paranaense","4:1","Not Applicable",56,"3:1","Left-footed shot","Wason Rentería",4,1
+"77","Série A ","32","10/29/11","Home","Santos FC","Atlético Paranaense","4:1","Not Applicable",70,"4:1","Right-footed shot","Adriano",4,1
+"78","Série A ","33","11/6/11","Home","Santos FC","Clube de Regatas Vasco da Gama","2:0","Not Applicable",3,"1:0","Direct free kick","Not Applicable",2,0
+"79","Série A ","37","11/27/11","Home","Santos FC","Esporte Clube Bahia","1:1","Not Applicable",31,"1:1","Right-footed shot","Ganso",1,1
+"80","Club World Cup ","Halbfinale","12/14/11","Away","Santos FC","Kashiwa Reysol","1:3","LW",19,"0:1","Left-footed shot","Ganso",1,3
+"81","Paulistão A1 - Primeira Fase ","5","2/5/12","Home","Santos FC","Sociedade Esportiva Palmeiras","1:2","Not Applicable",70,"1:0","Not reported","Not Applicable",1,2
+"82","Paulistão A1 - Primeira Fase ","6","2/10/12","Away","Santos FC","Botafogo FC","1:4","Not Applicable",76,"1:1","Not reported","Not Applicable",1,4
+"83","Paulistão A1 - Primeira Fase ","6","2/10/12","Away","Santos FC","Botafogo FC","1:4","Not Applicable",78,"1:2","Penalty","Not Applicable",1,4
+"84","Paulistão A1 - Primeira Fase ","6","2/10/12","Away","Santos FC","Botafogo FC","1:4","Not Applicable",88,"1:3","Not reported","Not Applicable",1,4
+"85","Paulistão A1 - Primeira Fase ","10","2/25/12","Home","Santos FC","Associação Atlética Ponte Preta","6:1","Not Applicable",27,"1:0","Not reported","Not Applicable",6,1
+"86","Paulistão A1 - Primeira Fase ","10","2/25/12","Home","Santos FC","Associação Atlética Ponte Preta","6:1","Not Applicable",77,"6:1","Not reported","Not Applicable",6,1
+"87","Libertadores ","Gruppenphase","3/7/12","Home","Santos FC","Sport Club Internacional","3:1","CF",19,"1:0","Penalty","Not Applicable",3,1
+"88","Libertadores ","Gruppenphase","3/7/12","Home","Santos FC","Sport Club Internacional","3:1","CF",54,"2:0","Solo run","Juan",3,1
+"89","Libertadores ","Gruppenphase","3/7/12","Home","Santos FC","Sport Club Internacional","3:1","CF",65,"3:1","Solo run","Ganso",3,1
+"90","Paulistão A1 - Primeira Fase ","14","3/18/12","Away","Santos FC","São Paulo Futebol Clube","3:2","Not Applicable",76,"2:2","Not reported","Not Applicable",3,2
+"91","Libertadores ","Gruppenphase","3/23/12","Home","Santos FC","Club Juan Aurich","2:0","CF",59,"2:0","Not reported","Borges",2,0
+"92","Paulistão A1 - Primeira Fase ","16","3/30/12","Home","Santos FC","Guaratinguetá (SP)","5:0","Not Applicable",3,"1:0","Not reported","Not Applicable",5,0
+"93","Paulistão A1 - Primeira Fase ","16","3/30/12","Home","Santos FC","Guaratinguetá (SP)","5:0","Not Applicable",42,"4:0","Penalty","Not Applicable",5,0
+"94","Paulistão A1 - Primeira Fase ","16","3/30/12","Home","Santos FC","Guaratinguetá (SP)","5:0","Not Applicable",87,"5:0","Penalty","Not Applicable",5,0
+"95","Paulistão A1 - Primeira Fase ","18","4/8/12","Away","Santos FC","AD São Caetano (SP)","2:1","Not Applicable",31,"0:1","Not reported","Not Applicable",2,1
+"96","Paulistão A1 - Primeira Fase ","19","4/15/12","Home","Santos FC","Grêmio Catanduvense (SP)","5:0","Not Applicable",63,"3:0","Not reported","Not Applicable",5,0
+"97","Libertadores ","Gruppenphase","4/20/12","Home","Santos FC","The Strongest La Paz","2:0","CF",88,"2:0","Not reported","Not Applicable",2,0
+"98","Paulistão A1 - Fase Final ","Viertelfinale","4/22/12","Home","Santos FC","Mogi Mirim EC","2:0","Not Applicable",71,"2:0","Not reported","Not Applicable",2,0
+"99","Paulistão A1 - Fase Final ","Halbfinale","4/29/12","Away","Santos FC","São Paulo Futebol Clube","1:3","Not Applicable",3,"0:1","Penalty","Not Applicable",1,3
+"100","Paulistão A1 - Fase Final ","Halbfinale","4/29/12","Away","Santos FC","São Paulo Futebol Clube","1:3","Not Applicable",31,"0:2","Not reported","Ganso",1,3
+"101","Paulistão A1 - Fase Final ","Halbfinale","4/29/12","Away","Santos FC","São Paulo Futebol Clube","1:3","Not Applicable",77,"1:3","Not reported","Léo",1,3
+"102","Paulistão A1 - Fase Final ","Finale","5/6/12","Away","Santos FC","Guarani Futebol Clube (SP)","0:3","Not Applicable",65,"0:2","Not reported","Not Applicable",0,3
+"103","Paulistão A1 - Fase Final ","Finale","5/6/12","Away","Santos FC","Guarani Futebol Clube (SP)","0:3","Not Applicable",90,"0:3","Not reported","Not Applicable",0,3
+"104","Libertadores ","Achtelfinale","5/11/12","Home","Santos FC","Bolívar La Paz","8:0","CF",21,"2:0","Penalty","Not Applicable",8,0
+"105","Libertadores ","Achtelfinale","5/11/12","Home","Santos FC","Bolívar La Paz","8:0","CF",36,"5:0","Right-footed shot","Elano",8,0
+"106","Paulistão A1 - Fase Final ","Finale","5/13/12","Home","Santos FC","Guarani Futebol Clube (SP)","4:2","Not Applicable",8,"2:1","Penalty","Not Applicable",4,2
+"107","Paulistão A1 - Fase Final ","Finale","5/13/12","Home","Santos FC","Guarani Futebol Clube (SP)","4:2","Not Applicable",71,"3:2","Not reported","Not Applicable",4,2
+"108","Libertadores ","Halbfinale","6/21/12","Away","Santos FC","Sport Club Corinthians Paulista","1:1","LW",36,"0:1","Tap-in","Not Applicable",1,1
+"109","Série A ","6","6/24/12","Home","Santos FC","Coritiba Foot Ball Club","2:2","LW",71,"2:1","Right-footed shot","Alan Kardec",2,2
+"110","Série A ","8","7/8/12","Home","Santos FC","Grêmio Foot-Ball Porto Alegrense","4:2","CF",62,"3:0","Header","Not Applicable",4,2
+"111","Série A ","17","8/16/12","Away","Santos FC","Figueirense Futebol Clube","1:3","CF",51,"1:1","Solo run","Not Applicable",1,3
+"112","Série A ","19","8/25/12","Away","Santos FC","Sociedade Esportiva Palmeiras","1:2","CF",44,"1:1","Direct free kick","Not Applicable",1,2
+"113","Série A ","19","8/25/12","Away","Santos FC","Sociedade Esportiva Palmeiras","1:2","CF",63,"1:2","Right-footed shot","Ganso",1,2
+"114","Série A ","24","9/12/12","Home","Santos FC","CR Flamengo","2:0","CF",87,"2:0","Right-footed shot","Bruno Peres",2,0
+"115","Série A ","25","9/16/12","Away","Santos FC","Coritiba Foot Ball Club","1:2","CF",71,"1:1","Solo run","Bernardo",1,2
+"116","Série A ","25","9/16/12","Away","Santos FC","Coritiba Foot Ball Club","1:2","CF",83,"1:2","Tap-in","Pato Rodríguez",1,2
+"117","Recopa Sudamericana ","Finale","9/27/12","Home","Santos FC","Club Universidad de Chile","2:0","CF",28,"1:0","Right-footed shot","André Felipe",2,0
+"118","Série A ","31","10/17/12","Home","Santos FC","Clube Atlético Mineiro","2:2","CF",11,"2:0","Solo run","Not Applicable",2,2
+"119","Série A ","34","11/3/12","Away","Santos FC","Cruzeiro Esporte Clube","0:4","CF",12,"0:1","Right-footed shot","Arouca",0,4
+"120","Série A ","34","11/3/12","Away","Santos FC","Cruzeiro Esporte Clube","0:4","CF",36,"0:2","Right-footed shot","André Felipe",0,4
+"121","Série A ","34","11/3/12","Away","Santos FC","Cruzeiro Esporte Clube","0:4","CF",82,"0:4","Right-footed shot","Ezequiel Miralles",0,4
+"122","Série A ","38","12/1/12","Home","Santos FC","Sociedade Esportiva Palmeiras","3:1","CF",23,"2:1","Penalty","Not Applicable",3,1
+"123","Série A ","38","12/1/12","Home","Santos FC","Sociedade Esportiva Palmeiras","3:1","CF",39,"3:1","Right-footed shot","Pato Rodríguez",3,1
+"124","Paulistão A1 - Primeira Fase ","1","1/20/13","Away","Santos FC","São Bernardo FC","1:3","Not Applicable",20,"0:1","Not reported","Not Applicable",1,3
+"125","Paulistão A1 - Primeira Fase ","1","1/20/13","Away","Santos FC","São Bernardo FC","1:3","Not Applicable",902,"1:3","Penalty","Not Applicable",1,3
+"126","Paulistão A1 - Primeira Fase ","2","1/24/13","Home","Santos FC","Botafogo FC","3:0","Not Applicable",41,"2:0","Not reported","Not Applicable",3,0
+"127","Paulistão A1 - Primeira Fase ","3","1/28/13","Away","Santos FC","Clube Atlético Bragantino (SP)","2:2","Not Applicable",901,"2:2","Penalty","Not Applicable",2,2
+"128","Paulistão A1 - Primeira Fase ","5","2/3/13","Home","Santos FC","São Paulo Futebol Clube","3:1","Not Applicable",49,"2:0","Penalty","Not Applicable",3,1
+"129","Paulistão A1 - Primeira Fase ","7","2/10/13","Home","Santos FC","Paulista FC (SP)","1:3","Not Applicable",90,"1:3","Not reported","Not Applicable",1,3
+"130","Paulistão A1 - Primeira Fase ","16","3/31/13","Away","Santos FC","Oeste FC","1:2","Not Applicable",67,"0:1","Not reported","Not Applicable",1,2
+"131","Paulistão A1 - Primeira Fase ","17","4/5/13","Home","Santos FC","AD São Caetano (SP)","1:1","Not Applicable",53,"1:1","Not reported","Not Applicable",1,1
+"132","Paulistão A1 - Primeira Fase ","18","4/13/13","Away","Santos FC","União Barbarense FC (SP)","0:4","Not Applicable",8,"0:1","Not reported","Not Applicable",0,4
+"133","Paulistão A1 - Primeira Fase ","18","4/13/13","Away","Santos FC","União Barbarense FC (SP)","0:4","Not Applicable",27,"0:2","Not reported","Not Applicable",0,4
+"134","Paulistão A1 - Primeira Fase ","18","4/13/13","Away","Santos FC","União Barbarense FC (SP)","0:4","Not Applicable",46,"0:3","Not reported","Not Applicable",0,4
+"135","Paulistão A1 - Primeira Fase ","18","4/13/13","Away","Santos FC","União Barbarense FC (SP)","0:4","Not Applicable",51,"0:4","Not reported","Not Applicable",0,4
+"136","Copa do Brasil ","1.Runde","4/17/13","Home","Santos FC","EC Flamengo","2:0","Not Applicable",85,"2:0","Not reported","Not Applicable",2,0
+"137","Supercopa ","Finale","8/21/13","Away","FC Barcelona","Atlético de Madrid","1:1","Not Applicable",66,"1:1","Header","Dani Alves",1,1
+"138","LaLiga ","6","9/24/13","Home","FC Barcelona","Real Sociedad","4:1","LW",5,"1:0","Left-footed shot","Alexis Sánchez",4,1
+"139","LaLiga ","8","10/5/13","Home","FC Barcelona","Real Valladolid CF","4:1","CF",70,"4:1","Right-footed shot","Alexis Sánchez",4,1
+"140","LaLiga ","10","10/26/13","Home","FC Barcelona","Real Madrid","2:1","LW",19,"1:0","Right-footed shot","Andrés Iniesta",2,1
+"141","LaLiga ","13","11/10/13","Away","FC Barcelona","Real Betis Balompié","1:4","LW",36,"0:1","Right-footed shot","Cesc Fàbregas",1,4
+"142","UEFA Champions League ","Gruppenphase","12/11/13","Home","FC Barcelona","Celtic FC","6:1","CF",45,"3:0","Right-footed shot","Martín Montoya",6,1
+"143","UEFA Champions League ","Gruppenphase","12/11/13","Home","FC Barcelona","Celtic FC","6:1","CF",48,"4:0","Left-footed shot","Xavi",6,1
+"144","UEFA Champions League ","Gruppenphase","12/11/13","Home","FC Barcelona","Celtic FC","6:1","CF",58,"5:0","Right-footed shot","Adriano",6,1
+"145","LaLiga ","16","12/14/13","Home","FC Barcelona","Villarreal CF","2:1","LW",30,"1:0","Penalty","Not Applicable",2,1
+"146","LaLiga ","16","12/14/13","Home","FC Barcelona","Villarreal CF","2:1","LW",68,"2:1","Right-footed shot","Alexis Sánchez",2,1
+"147","Copa del Rey ","4.Runde","12/17/13","Home","FC Barcelona","FC Cartagena","3:0","CF",87,"3:0","Header","Andrés Iniesta",3,0
+"148","LaLiga ","24","2/15/14","Home","FC Barcelona","Rayo Vallecano","6:0","Not Applicable",89,"6:0","Right-footed shot","Andrés Iniesta",6,0
+"149","LaLiga ","30","3/26/14","Home","FC Barcelona","Celta de Vigo","3:0","LW",6,"1:0","Right-footed shot","Alexis Sánchez",3,0
+"150","LaLiga ","30","3/26/14","Home","FC Barcelona","Celta de Vigo","3:0","LW",67,"3:0","Left-footed shot","Alexis Sánchez",3,0
+"151","UEFA Champions League ","Viertelfinale","4/1/14","Home","FC Barcelona","Atlético de Madrid","1:1","CF",71,"1:1","Right-footed shot","Andrés Iniesta",1,1
+"152","LaLiga ","3","9/13/14","Home","FC Barcelona","Athletic Bilbao","2:0","Not Applicable",79,"1:0","Left-footed shot","Lionel Messi",2,0
+"153","LaLiga ","3","9/13/14","Home","FC Barcelona","Athletic Bilbao","2:0","Not Applicable",84,"2:0","Right-footed shot","Lionel Messi",2,0
+"154","LaLiga ","4","9/21/14","Away","FC Barcelona","Levante UD","0:5","LW",34,"0:1","Right-footed shot","Lionel Messi",0,5
+"155","LaLiga ","6","9/27/14","Home","FC Barcelona","Granada CF","6:0","LW",26,"1:0","Deflected shot on goal","Not Applicable",6,0
+"156","LaLiga ","6","9/27/14","Home","FC Barcelona","Granada CF","6:0","LW",45,"3:0","Tap-in","Not Applicable",6,0
+"157","LaLiga ","6","9/27/14","Home","FC Barcelona","Granada CF","6:0","LW",66,"5:0","Right-footed shot","Lionel Messi",6,0
+"158","UEFA Champions League ","Gruppenphase","9/30/14","Away","FC Barcelona","Paris Saint-Germain","3:2","CF",56,"3:2","Right-footed shot","Dani Alves",3,2
+"159","LaLiga ","7","10/4/14","Away","FC Barcelona","Rayo Vallecano","0:2","LW",36,"0:2","Right-footed shot","Munir El Haddadi",0,2
+"160","LaLiga ","8","10/18/14","Home","FC Barcelona","SD Eibar","3:0","LW",72,"2:0","Right-footed shot","Dani Alves",3,0
+"161","UEFA Champions League ","Gruppenphase","10/21/14","Home","FC Barcelona","Ajax Amsterdam","3:1","LW",8,"1:0","Right-footed shot","Lionel Messi",3,1
+"162","LaLiga ","9","10/25/14","Away","FC Barcelona","Real Madrid","3:1","LW",4,"0:1","Right-footed shot","Luis Suárez",3,1
+"163","LaLiga ","11","11/8/14","Away","FC Barcelona","UD Almería","1:2","LW",73,"1:1","Deflected shot on goal","Luis Suárez",1,2
+"164","LaLiga ","12","11/22/14","Home","FC Barcelona","Sevilla FC","5:1","LW",49,"2:1","Header","Xavi",5,1
+"165","UEFA Champions League ","Gruppenphase","12/10/14","Home","FC Barcelona","Paris Saint-Germain","3:1","LW",41,"2:1","Right-footed shot","Andrés Iniesta",3,1
+"166","Copa del Rey ","Achtelfinale","1/8/15","Home","FC Barcelona","Elche CF","5:0","LW",34,"1:0","Right-footed shot","Luis Suárez",5,0
+"167","Copa del Rey ","Achtelfinale","1/8/15","Home","FC Barcelona","Elche CF","5:0","LW",59,"5:0","Right-footed shot","Lionel Messi",5,0
+"168","LaLiga ","18","1/11/15","Home","FC Barcelona","Atlético de Madrid","3:1","LW",12,"1:0","Left-footed shot","Luis Suárez",3,1
+"169","LaLiga ","20","1/24/15","Away","FC Barcelona","Elche CF","0:6","LW",69,"0:3","Right-footed shot","Lionel Messi",0,6
+"170","LaLiga ","20","1/24/15","Away","FC Barcelona","Elche CF","0:6","LW",71,"0:4","Right-footed shot","Lionel Messi",0,6
+"171","Copa del Rey ","Viertelfinale","1/28/15","Away","FC Barcelona","Atlético de Madrid","2:3","LW",9,"1:1","Right-footed shot","Luis Suárez",2,3
+"172","Copa del Rey ","Viertelfinale","1/28/15","Away","FC Barcelona","Atlético de Madrid","2:3","LW",41,"2:3","Right-footed shot","Jordi Alba",2,3
+"173","LaLiga ","21","2/1/15","Home","FC Barcelona","Villarreal CF","3:2","LW",45,"1:1","Tap-in","Not Applicable",3,2
+"174","LaLiga ","22","2/8/15","Away","FC Barcelona","Athletic Bilbao","2:5","LW",65,"1:4","Right-footed shot","Lionel Messi",2,5
+"175","LaLiga ","23","2/15/15","Home","FC Barcelona","Levante UD","5:0","LW",17,"1:0","Right-footed shot","Lionel Messi",5,0
+"176","Copa del Rey ","Halbfinale","3/4/15","Away","FC Barcelona","Villarreal CF","1:3","LW",4,"0:1","Left-footed shot","Lionel Messi",1,3
+"177","Copa del Rey ","Halbfinale","3/4/15","Away","FC Barcelona","Villarreal CF","1:3","LW",88,"1:3","Header","Xavi",1,3
+"178","LaLiga ","31","4/11/15","Away","FC Barcelona","Sevilla FC","2:2","LW",31,"0:2","Direct free kick","Not Applicable",2,2
+"179","UEFA Champions League ","Viertelfinale","4/15/15","Away","FC Barcelona","Paris Saint-Germain","1:3","LW",18,"0:1","Right-footed shot","Lionel Messi",1,3
+"180","UEFA Champions League ","Viertelfinale","4/21/15","Home","FC Barcelona","Paris Saint-Germain","2:0","LW",14,"1:0","Right-footed shot","Andrés Iniesta",2,0
+"181","UEFA Champions League ","Viertelfinale","4/21/15","Home","FC Barcelona","Paris Saint-Germain","2:0","LW",34,"2:0","Header","Dani Alves",2,0
+"182","LaLiga ","33","4/25/15","Away","FC Barcelona","RCD Espanyol Barcelona","0:2","LW",17,"0:1","Right-footed shot","Jordi Alba",0,2
+"183","LaLiga ","34","4/28/15","Home","FC Barcelona","Getafe CF","6:0","LW",28,"3:0","Right-footed shot","Luis Suárez",6,0
+"184","LaLiga ","35","5/2/15","Away","FC Barcelona","Córdoba CF","0:8","LW",85,"0:7","Penalty","Not Applicable",0,8
+"185","UEFA Champions League ","Halbfinale","5/6/15","Home","FC Barcelona","Bayern Munich","3:0","LW",904,"3:0","Right-footed shot","Lionel Messi",3,0
+"186","LaLiga ","36","5/9/15","Home","FC Barcelona","Real Sociedad","2:0","LW",51,"1:0","Header","Not Applicable",2,0
+"187","UEFA Champions League ","Halbfinale","5/12/15","Away","FC Barcelona","Bayern Munich","3:2","LW",15,"1:1","Left-footed shot","Luis Suárez",3,2
+"188","UEFA Champions League ","Halbfinale","5/12/15","Away","FC Barcelona","Bayern Munich","3:2","LW",29,"1:2","Right-footed shot","Luis Suárez",3,2
+"189","Copa del Rey ","Finale","5/30/15","Away","FC Barcelona","Athletic Bilbao","1:3","LW",37,"0:2","Right-footed shot","Luis Suárez",1,3
+"190","UEFA Champions League ","Finale","6/6/15","Away","FC Barcelona","Juventus FC","1:3","LW",907,"1:3","Left-footed shot","Pedro",1,3
+"191","LaLiga ","3","9/12/15","Away","FC Barcelona","Atlético de Madrid","1:2","LW",55,"1:1","Direct free kick","Not Applicable",1,2
+"192","LaLiga ","4","9/20/15","Home","FC Barcelona","Levante UD","4:1","LW",56,"2:0","Right-footed shot","Not Applicable",4,1
+"193","LaLiga ","5","9/23/15","Away","FC Barcelona","Celta de Vigo","4:1","LW",80,"3:1","Right-footed shot","Lionel Messi",4,1
+"194","LaLiga ","7","10/3/15","Away","FC Barcelona","Sevilla FC","2:1","LW",74,"2:1","Penalty","Not Applicable",2,1
+"195","LaLiga ","8","10/17/15","Home","FC Barcelona","Rayo Vallecano","5:2","LW",22,"1:1","Penalty","Not Applicable",5,2
+"196","LaLiga ","8","10/17/15","Home","FC Barcelona","Rayo Vallecano","5:2","LW",32,"2:1","Penalty","Not Applicable",5,2
+"197","LaLiga ","8","10/17/15","Home","FC Barcelona","Rayo Vallecano","5:2","LW",69,"3:1","Left-footed shot","Not Applicable",5,2
+"198","LaLiga ","8","10/17/15","Home","FC Barcelona","Rayo Vallecano","5:2","LW",71,"4:1","Left-footed shot","Luis Suárez",5,2
+"199","LaLiga ","10","10/31/15","Away","FC Barcelona","Getafe CF","0:2","LW",58,"0:2","Left-footed shot","Sergi Roberto",0,2
+"200","UEFA Champions League ","Gruppenphase","11/4/15","Home","FC Barcelona","BATE Borisov","3:0","LW",31,"1:0","Penalty","Not Applicable",3,0
+"201","UEFA Champions League ","Gruppenphase","11/4/15","Home","FC Barcelona","BATE Borisov","3:0","LW",83,"3:0","Right-footed shot","Luis Suárez",3,0
+"202","LaLiga ","11","11/8/15","Home","FC Barcelona","Villarreal CF","3:0","LW",60,"1:0","Left-footed shot","Sergio Busquets",3,0
+"203","LaLiga ","11","11/8/15","Home","FC Barcelona","Villarreal CF","3:0","LW",85,"3:0","Right-footed shot","Luis Suárez",3,0
+"204","LaLiga ","12","11/21/15","Away","FC Barcelona","Real Madrid","0:4","LW",39,"0:2","Left-footed shot","Andrés Iniesta",0,4
+"205","LaLiga ","13","11/28/15","Home","FC Barcelona","Real Sociedad","4:0","LW",22,"1:0","Right-footed shot","Dani Alves",4,0
+"206","LaLiga ","13","11/28/15","Home","FC Barcelona","Real Sociedad","4:0","LW",53,"3:0","Right-footed shot","Jérémy Mathieu",4,0
+"207","Copa del Rey ","Achtelfinale","1/6/16","Home","FC Barcelona","RCD Espanyol Barcelona","4:1","LW",88,"4:1","Right-footed shot","Lionel Messi",4,1
+"208","LaLiga ","19","1/9/16","Home","FC Barcelona","Granada CF","4:0","LW",83,"4:0","Right-footed shot","Luis Suárez",4,0
+"209","LaLiga ","20","1/17/16","Home","FC Barcelona","Athletic Bilbao","6:0","LW",31,"2:0","Left-footed shot","Luis Suárez",6,0
+"210","Copa del Rey ","Viertelfinale","1/20/16","Away","FC Barcelona","Athletic Bilbao","1:2","LW",25,"0:2","Right-footed shot","Sergi Roberto",1,2
+"211","Copa del Rey ","Viertelfinale","1/27/16","Home","FC Barcelona","Athletic Bilbao","3:1","LW",901,"3:1","Left-footed shot","Sergi Roberto",3,1
+"212","LaLiga ","24","2/14/16","Home","FC Barcelona","Celta de Vigo","6:1","LW",901,"6:1","Left-footed shot","Luis Suárez",6,1
+"213","LaLiga ","25","2/20/16","Away","FC Barcelona","UD Las Palmas","1:2","LW",39,"1:2","Tap-in","Not Applicable",1,2
+"214","LaLiga ","29","3/12/16","Home","FC Barcelona","Getafe CF","6:0","LW",32,"3:0","Right-footed shot","Lionel Messi",6,0
+"215","LaLiga ","29","3/12/16","Home","FC Barcelona","Getafe CF","6:0","LW",51,"5:0","Right-footed shot","Lionel Messi",6,0
+"216","UEFA Champions League ","Achtelfinale","3/16/16","Home","FC Barcelona","Arsenal FC","3:1","LW",18,"1:0","Left-footed shot","Luis Suárez",3,1
+"217","LaLiga ","30","3/20/16","Away","FC Barcelona","Villarreal CF","2:2","LW",41,"0:2","Penalty","Not Applicable",2,2
+"218","LaLiga ","34","4/20/16","Away","FC Barcelona","Deportivo de La Coruña","0:8","LW",81,"0:8","Left-footed shot","Luis Suárez",0,8
+"219","LaLiga ","35","4/23/16","Home","FC Barcelona","Sporting Gijón","6:0","LW",86,"5:0","Penalty","Not Applicable",6,0
+"220","LaLiga ","37","5/8/16","Home","FC Barcelona","RCD Espanyol Barcelona","5:0","LW",83,"5:0","Right-footed shot","Luis Suárez",5,0
+"221","Copa del Rey ","Finale","5/22/16","Home","FC Barcelona","Sevilla FC","2:0","LW",1203,"2:0","Right-footed shot","Lionel Messi",2,0
+"222","UEFA Champions League ","Gruppenphase","9/13/16","Home","FC Barcelona","Celtic FC","7:0","LW",50,"3:0","Direct free kick","Not Applicable",7,0
+"223","LaLiga ","4","9/17/16","Away","FC Barcelona","CD Leganés","1:5","LW",44,"0:3","Right-footed shot","Luis Suárez",1,5
+"224","LaLiga ","6","9/24/16","Away","FC Barcelona","Sporting Gijón","0:5","LW",81,"0:3","Right-footed shot","Not Applicable",0,5
+"225","LaLiga ","6","9/24/16","Away","FC Barcelona","Sporting Gijón","0:5","LW",88,"0:5","Left-footed shot","Denis Suárez",0,5
+"226","LaLiga ","7","10/2/16","Away","FC Barcelona","Celta de Vigo","4:3","LW",64,"3:2","Penalty","Not Applicable",4,3
+"227","UEFA Champions League ","Gruppenphase","10/19/16","Home","FC Barcelona","Manchester City","4:0","LW",89,"4:0","Right-footed shot","Lionel Messi",4,0
+"228","Copa del Rey ","Achtelfinale","1/11/17","Home","FC Barcelona","Athletic Bilbao","3:1","LW",48,"2:0","Penalty","Not Applicable",3,1
+"229","Copa del Rey ","Viertelfinale","1/19/17","Away","FC Barcelona","Real Sociedad","0:1","LW",21,"0:1","Penalty","Not Applicable",0,1
+"230","LaLiga ","19","1/22/17","Away","FC Barcelona","SD Eibar","0:4","LW",901,"0:4","Right-footed shot","Aleix Vidal",0,4
+"231","LaLiga ","22","2/11/17","Away","FC Barcelona","Deportivo Alavés","0:6","LW",40,"0:2","Right-footed shot","Luis Suárez",0,6
+"232","LaLiga ","25","3/1/17","Home","FC Barcelona","Sporting Gijón","6:1","LW",66,"5:1","Direct free kick","Not Applicable",6,1
+"233","LaLiga ","26","3/4/17","Home","FC Barcelona","Celta de Vigo","5:0","LW",40,"2:0","Right-footed shot","Lionel Messi",5,0
+"234","UEFA Champions League ","Achtelfinale","3/8/17","Home","FC Barcelona","Paris Saint-Germain","6:1","LW",88,"4:1","Direct free kick","Not Applicable",6,1
+"235","UEFA Champions League ","Achtelfinale","3/8/17","Home","FC Barcelona","Paris Saint-Germain","6:1","LW",901,"5:1","Penalty","Not Applicable",6,1
+"236","LaLiga ","29","4/2/17","Away","FC Barcelona","Granada CF","1:4","LW",901,"1:4","Left-footed shot","Paco Alcácer",1,4
+"237","LaLiga ","36","5/6/17","Home","FC Barcelona","Villarreal CF","4:1","LW",21,"1:0","Left-footed shot","Not Applicable",4,1
+"238","LaLiga ","37","5/14/17","Away","FC Barcelona","UD Las Palmas","1:4","LW",25,"0:1","Right-footed shot","Luis Suárez",1,4
+"239","LaLiga ","37","5/14/17","Away","FC Barcelona","UD Las Palmas","1:4","LW",67,"1:3","Header","Ivan Rakitic",1,4
+"240","LaLiga ","37","5/14/17","Away","FC Barcelona","UD Las Palmas","1:4","LW",71,"1:4","Right-footed shot","Jordi Alba",1,4
+"241","Copa del Rey ","Finale","5/27/17","Home","FC Barcelona","Deportivo Alavés","3:1","LW",45,"2:1","Right-footed shot","André Gomes",3,1
+"242","Ligue 1 ","2","8/13/17","Away","Paris Saint-Germain","EA Guingamp","0:3","LW",82,"0:3","Right-footed shot","Edinson Cavani",0,3
+"243","Ligue 1 ","3","8/20/17","Home","Paris Saint-Germain","FC Toulouse","6:2","LW",31,"1:1","Right-footed shot","Not Applicable",6,2
+"244","Ligue 1 ","3","8/20/17","Home","Paris Saint-Germain","FC Toulouse","6:2","LW",90,"6:2","Solo run","Not Applicable",6,2
+"245","Ligue 1 ","5","9/8/17","Away","Paris Saint-Germain","FC Metz","1:5","LW",69,"1:3","Long distance kick","Not Applicable",1,5
+"246","UEFA Champions League ","Gruppenphase","9/12/17","Away","Paris Saint-Germain","Celtic FC","0:5","LW",20,"0:1","Right-footed shot","Adrien Rabiot",0,5
+"247","UEFA Champions League ","Gruppenphase","9/27/17","Home","Paris Saint-Germain","Bayern Munich","3:0","LW",63,"3:0","Tap-in","Not Applicable",3,0
+"248","Ligue 1 ","8","9/30/17","Home","Paris Saint-Germain","FC Girondins Bordeaux","6:2","LW",5,"1:0","Direct free kick","Not Applicable",6,2
+"249","Ligue 1 ","8","9/30/17","Home","Paris Saint-Germain","FC Girondins Bordeaux","6:2","LW",40,"4:1","Penalty","Not Applicable",6,2
+"250","UEFA Champions League ","Gruppenphase","10/18/17","Away","Paris Saint-Germain","RSC Anderlecht","0:4","LW",66,"0:3","Direct free kick","Not Applicable",0,4
+"251","Ligue 1 ","10","10/22/17","Away","Paris Saint-Germain","Olympique Marseille","2:2","LW",33,"1:1","Left-footed shot","Adrien Rabiot",2,2
+"252","UEFA Champions League ","Gruppenphase","10/31/17","Home","Paris Saint-Germain","RSC Anderlecht","5:0","LW",454,"2:0","Right-footed shot","Julian Draxler",5,0
+"253","UEFA Champions League ","Gruppenphase","11/22/17","Home","Paris Saint-Germain","Celtic FC","7:1","LW",9,"1:1","Left-footed shot","Adrien Rabiot",7,1
+"254","UEFA Champions League ","Gruppenphase","11/22/17","Home","Paris Saint-Germain","Celtic FC","7:1","LW",22,"2:1","Left-footed shot","Marco Verratti",7,1
+"255","Ligue 1 ","14","11/26/17","Away","Paris Saint-Germain","AS Monaco","1:2","LW",52,"0:2","Penalty","Not Applicable",1,2
+"256","Ligue 1 ","15","11/29/17","Home","Paris Saint-Germain","ESTAC Troyes","2:0","LW",73,"1:0","Left-footed shot","Not Applicable",2,0
+"257","Ligue 1 ","18","12/16/17","Away","Paris Saint-Germain","Stade Rennais FC","1:4","LW",4,"0:1","Tap-in","Kylian Mbappé",1,4
+"258","Ligue 1 ","18","12/16/17","Away","Paris Saint-Germain","Stade Rennais FC","1:4","LW",76,"1:4","Left-footed shot","Kylian Mbappé",1,4
+"259","Coupe de France ","3.Runde","1/7/18","Away","Paris Saint-Germain","Stade Rennais FC","1:6","LW",17,"0:2","Left-footed shot","Marco Verratti",1,6
+"260","Coupe de France ","3.Runde","1/7/18","Away","Paris Saint-Germain","Stade Rennais FC","1:6","LW",43,"0:4","Right-footed shot","Kylian Mbappé",1,6
+"261","Coupe de la Ligue ","Viertelfinale","1/10/18","Away","Paris Saint-Germain","Amiens SC","0:2","LW",53,"0:1","Penalty","Not Applicable",0,2
+"262","Ligue 1 ","21","1/17/18","Home","Paris Saint-Germain","Dijon FCO","8:0","LW",42,"4:0","Direct free kick","Not Applicable",8,0
+"263","Ligue 1 ","21","1/17/18","Home","Paris Saint-Germain","Dijon FCO","8:0","LW",57,"5:0","Left-footed shot","Not Applicable",8,0
+"264","Ligue 1 ","21","1/17/18","Home","Paris Saint-Germain","Dijon FCO","8:0","LW",73,"6:0","Solo run","Not Applicable",8,0
+"265","Ligue 1 ","21","1/17/18","Home","Paris Saint-Germain","Dijon FCO","8:0","LW",83,"8:0","Penalty","Not Applicable",8,0
+"266","Ligue 1 ","23","1/27/18","Home","Paris Saint-Germain","Montpellier HSC","4:0","LW",40,"2:0","Penalty","Not Applicable",4,0
+"267","Ligue 1 ","23","1/27/18","Home","Paris Saint-Germain","Montpellier HSC","4:0","LW",82,"4:0","Left-footed shot","Edinson Cavani",4,0
+"268","Ligue 1 ","24","2/3/18","Away","Paris Saint-Germain","LOSC Lille","0:3","LW",77,"0:2","Direct free kick","Not Applicable",0,3
+"269","Ligue 1 ","26","2/17/18","Home","Paris Saint-Germain","RC Strasbourg Alsace","5:2","LW",21,"2:1","Right-footed shot","Not Applicable",5,2
+"270","Ligue 1 ","1","8/12/18","Home","Paris Saint-Germain","SM Caen","3:0","CF",10,"1:0","Left-footed shot","Christopher Nkunku",3,0
+"271","Ligue 1 ","2","8/18/18","Away","Paris Saint-Germain","EA Guingamp","1:3","LW",53,"1:1","Penalty","Not Applicable",1,3
+"272","Ligue 1 ","3","8/25/18","Home","Paris Saint-Germain","Angers SCO","3:1","AM",66,"3:1","Left-footed shot","Kylian Mbappé",3,1
+"273","Ligue 1 ","4","9/1/18","Away","Paris Saint-Germain","Nîmes Olympique","2:4","SS",36,"0:1","Left-footed shot","Thomas Meunier",2,4
+"274","Ligue 1 ","7","9/26/18","Home","Paris Saint-Germain","Stade Reims","4:1","SS",24,"2:1","Penalty","Not Applicable",4,1
+"275","Ligue 1 ","8","9/29/18","Away","Paris Saint-Germain","OGC Nice","0:3","SS",22,"0:1","Right-footed shot","Moussa Diaby",0,3
+"276","Ligue 1 ","8","9/29/18","Away","Paris Saint-Germain","OGC Nice","0:3","SS",902,"0:3","Right-footed shot","Kylian Mbappé",0,3
+"277","UEFA Champions League ","Gruppenphase","10/3/18","Home","Paris Saint-Germain","Red Star Belgrade","6:1","SS",20,"1:0","Direct free kick","Not Applicable",6,1
+"278","UEFA Champions League ","Gruppenphase","10/3/18","Home","Paris Saint-Germain","Red Star Belgrade","6:1","SS",22,"2:0","Left-footed shot","Kylian Mbappé",6,1
+"279","UEFA Champions League ","Gruppenphase","10/3/18","Home","Paris Saint-Germain","Red Star Belgrade","6:1","SS",81,"6:1","Direct free kick","Not Applicable",6,1
+"280","Ligue 1 ","9","10/7/18","Home","Paris Saint-Germain","Olympique Lyon","5:0","SS",9,"1:0","Penalty","Not Applicable",5,0
+"281","Ligue 1 ","12","11/2/18","Home","Paris Saint-Germain","LOSC Lille","2:1","CF",84,"2:0","Right-footed shot","Kylian Mbappé",2,1
+"282","Ligue 1 ","13","11/11/18","Away","Paris Saint-Germain","AS Monaco","0:4","AM",64,"0:4","Penalty","Not Applicable",0,4
+"283","UEFA Champions League ","Gruppenphase","11/28/18","Home","Paris Saint-Germain","Liverpool FC","2:1","LW",37,"2:0","Tap-in","Edinson Cavani",2,1
+"284","Ligue 1 ","15","12/2/18","Away","Paris Saint-Germain","FC Girondins Bordeaux","2:2","LW",34,"0:1","Right-footed shot","Dani Alves",2,2
+"285","UEFA Champions League ","Gruppenphase","12/11/18","Away","Paris Saint-Germain","Red Star Belgrade","1:4","LW",40,"0:2","Right-footed shot","Kylian Mbappé",1,4
+"286","Coupe de France ","3.Runde","1/6/19","Away","Paris Saint-Germain","GSI Pontivy","0:4","SS",70,"0:2","Right-footed shot","Moussa Diaby",0,4
+"287","Coupe de la Ligue ","Viertelfinale","1/9/19","Home","Paris Saint-Germain","EA Guingamp","1:2","SS",63,"1:0","Header","Thomas Meunier",1,2
+"288","Ligue 1 ","21","1/19/19","Home","Paris Saint-Germain","EA Guingamp","9:0","LW",11,"1:0","Right-footed shot","Dani Alves",9,0
+"289","Ligue 1 ","21","1/19/19","Home","Paris Saint-Germain","EA Guingamp","9:0","LW",68,"6:0","Right-footed shot","Kylian Mbappé",9,0
+"290","Coupe de France ","Finale","4/27/19","Away","Paris Saint-Germain","Stade Rennais FC","8:7","LW",21,"0:2","Right-footed shot","Ángel Di María",8,7
+"291","Ligue 1 ","35","5/4/19","Home","Paris Saint-Germain","OGC Nice","1:1","SS",60,"1:1","Penalty","Not Applicable",1,1
+"292","Ligue 1 ","36","5/11/19","Away","Paris Saint-Germain","Angers SCO","1:2","SS",20,"0:1","Header","Dani Alves",1,2
+"293","Ligue 1 ","5","9/14/19","Home","Paris Saint-Germain","RC Strasbourg Alsace","1:0","SS",902,"1:0","Left-footed shot","Abdou Diallo",1,0
+"294","Ligue 1 ","6","9/22/19","Away","Paris Saint-Germain","Olympique Lyon","0:1","LW",87,"0:1","Left-footed shot","Ángel Di María",0,1
+"295","Ligue 1 ","8","9/28/19","Away","Paris Saint-Germain","FC Girondins Bordeaux","0:1","CF",70,"0:1","Right-footed shot","Kylian Mbappé",0,1
+"296","Ligue 1 ","9","10/5/19","Home","Paris Saint-Germain","Angers SCO","4:0","LW",90,"4:0","Left-footed shot","Eric-Maxim Choupo-Moting",4,0
+"297","Ligue 1 ","16","12/4/19","Home","Paris Saint-Germain","FC Nantes","2:0","LW",85,"2:0","Penalty","Not Applicable",2,0
+"298","Ligue 1 ","17","12/7/19","Away","Paris Saint-Germain","Montpellier HSC","1:3","LW",74,"1:1","Direct free kick","Not Applicable",1,3
+"299","UEFA Champions League ","Gruppenphase","12/11/19","Home","Paris Saint-Germain","Galatasaray","5:0","LW",47,"3:0","Left-footed shot","Kylian Mbappé",5,0
+"300","Ligue 1 ","18","12/15/19","Away","Paris Saint-Germain","AS Saint-Étienne","0:4","LW",9,"0:1","Deflected shot on goal","Leandro Paredes",0,4
+"301","Ligue 1 ","19","12/21/19","Home","Paris Saint-Germain","Amiens SC","4:1","LW",46,"2:0","Right-footed shot","Mauro Icardi",4,1
+"302","Coupe de la Ligue ","Viertelfinale","1/8/20","Home","Paris Saint-Germain","AS Saint-Étienne","6:1","LW",39,"2:0","Right-footed shot","Ángel Di María",6,1
+"303","Ligue 1 ","20","1/12/20","Home","Paris Saint-Germain","AS Monaco","3:3","LW",3,"1:0","Left-footed shot","Marco Verratti",3,3
+"304","Ligue 1 ","20","1/12/20","Home","Paris Saint-Germain","AS Monaco","3:3","LW",42,"3:2","Penalty","Not Applicable",3,3
+"305","Ligue 1 ","15","1/15/20","Away","Paris Saint-Germain","AS Monaco","1:4","LW",452,"0:2","Penalty","Not Applicable",1,4
+"306","Ligue 1 ","21","1/26/20","Away","Paris Saint-Germain","LOSC Lille","0:2","LW",28,"0:1","Right-footed shot","Marco Verratti",0,2
+"307","Ligue 1 ","21","1/26/20","Away","Paris Saint-Germain","LOSC Lille","0:2","LW",52,"0:2","Penalty","Not Applicable",0,2
+"308","UEFA Champions League ","Achtelfinale","2/18/20","Away","Paris Saint-Germain","Borussia Dortmund","2:1","LW",75,"1:1","Left-footed shot","Kylian Mbappé",2,1
+"309","Coupe de France ","Halbfinale","3/4/20","Away","Paris Saint-Germain","Olympique Lyon","1:5","LW",64,"1:2","Penalty","Not Applicable",1,5
+"310","UEFA Champions League ","Achtelfinale","3/11/20","Home","Paris Saint-Germain","Borussia Dortmund","2:0","LW",28,"1:0","Header","Ángel Di María",2,0
+"311","Coupe de France ","Finale","7/24/20","Home","Paris Saint-Germain","AS Saint-Étienne","1:0","LW",14,"1:0","Left-footed shot","Not Applicable",1,0
+"312","Ligue 1 ","6","10/2/20","Home","Paris Saint-Germain","Angers SCO","6:1","LW",36,"2:0","Left-footed shot","Kylian Mbappé",6,1
+"313","Ligue 1 ","6","10/2/20","Home","Paris Saint-Germain","Angers SCO","6:1","LW",47,"3:0","Right-footed shot","Not Applicable",6,1
+"314","UEFA Champions League ","Gruppenphase","11/24/20","Home","Paris Saint-Germain","RB Leipzig","1:0","CF",11,"1:0","Penalty","Not Applicable",1,0
+"315","Ligue 1 ","12","11/28/20","Home","Paris Saint-Germain","FC Girondins Bordeaux","2:2","LW",27,"1:1","Penalty","Not Applicable",2,2
+"316","UEFA Champions League ","Gruppenphase","12/2/20","Away","Paris Saint-Germain","Manchester United","1:3","LW",6,"0:1","Right-footed shot","Not Applicable",1,3
+"317","UEFA Champions League ","Gruppenphase","12/2/20","Away","Paris Saint-Germain","Manchester United","1:3","LW",901,"1:3","Left-footed shot","Rafinha",1,3
+"318","UEFA Champions League ","Gruppenphase","12/9/20","Home","Paris Saint-Germain","Basaksehir FK","5:1","SS",21,"1:0","Right-footed shot","Marco Verratti",5,1
+"319","UEFA Champions League ","Gruppenphase","12/9/20","Home","Paris Saint-Germain","Basaksehir FK","5:1","SS",37,"2:0","Counter attack goal","Kylian Mbappé",5,1
+"320","UEFA Champions League ","Gruppenphase","12/9/20","Home","Paris Saint-Germain","Basaksehir FK","5:1","SS",50,"4:0","Right-footed shot","Ángel Di María",5,1
+"321","Trophée des Champions ","Finale","1/13/21","Home","Paris Saint-Germain","Olympique Marseille","2:1","LW",85,"2:0","Penalty","Not Applicable",2,1
+"322","Ligue 1 ","21","1/22/21","Home","Paris Saint-Germain","Montpellier HSC","4:0","LW",60,"2:0","Right-footed shot","Kylian Mbappé",4,0
+"323","Ligue 1 ","22","1/31/21","Away","Paris Saint-Germain","FC Lorient","3:2","LW",45,"1:1","Penalty","Not Applicable",3,2
+"324","Ligue 1 ","22","1/31/21","Away","Paris Saint-Germain","FC Lorient","3:2","LW",58,"1:2","Penalty","Not Applicable",3,2
+"325","Coupe de France ","Viertelfinale","4/21/21","Home","Paris Saint-Germain","Angers SCO","5:0","SS",65,"3:0","Header","Julian Draxler",5,0
+"326","Ligue 1 ","35","5/1/21","Home","Paris Saint-Germain","RC Lens","2:1","LW",33,"1:0","Right-footed shot","Julian Draxler",2,1
+"327","Ligue 1 ","36","5/9/21","Away","Paris Saint-Germain","Stade Rennais FC","1:1","LW",456,"0:1","Penalty","Not Applicable",1,1
+"328","Ligue 1 ","37","5/16/21","Home","Paris Saint-Germain","Stade Reims","4:0","SS",13,"1:0","Penalty","Not Applicable",4,0
+"329","Ligue 1 ","6","9/19/21","Home","Paris Saint-Germain","Olympique Lyon","2:1","LW",66,"1:1","Penalty","Not Applicable",2,1
+"330","Ligue 1 ","13","11/6/21","Away","Paris Saint-Germain","FC Girondins Bordeaux","2:3","LW",26,"0:1","Right-footed shot","Kylian Mbappé",2,3
+"331","Ligue 1 ","13","11/6/21","Away","Paris Saint-Germain","FC Girondins Bordeaux","2:3","LW",43,"0:2","Right-footed shot","Kylian Mbappé",2,3
+"332","Ligue 1 ","25","2/19/22","Away","Paris Saint-Germain","FC Nantes","3:1","LW",47,"3:1","Right-footed shot","Lionel Messi",3,1
+"333","Ligue 1 ","28","3/13/22","Home","Paris Saint-Germain","FC Girondins Bordeaux","3:0","LW",52,"2:0","Right-footed shot","Achraf Hakimi",3,0
+"334","Ligue 1 ","30","4/3/22","Home","Paris Saint-Germain","FC Lorient","5:1","LW",12,"1:0","Right-footed shot","Kylian Mbappé",5,1
+"335","Ligue 1 ","30","4/3/22","Home","Paris Saint-Germain","FC Lorient","5:1","LW",90,"5:1","Right-footed shot","Kylian Mbappé",5,1
+"336","Ligue 1 ","31","4/9/22","Away","Paris Saint-Germain","Clermont Foot 63","1:6","LW",6,"0:1","Left-footed shot","Lionel Messi",1,6
+"337","Ligue 1 ","31","4/9/22","Away","Paris Saint-Germain","Clermont Foot 63","1:6","LW",71,"1:3","Penalty","Not Applicable",1,6
+"338","Ligue 1 ","31","4/9/22","Away","Paris Saint-Germain","Clermont Foot 63","1:6","LW",83,"1:6","Left-footed shot","Kylian Mbappé",1,6
+"339","Ligue 1 ","32","4/17/22","Home","Paris Saint-Germain","Olympique Marseille","2:1","LW",12,"1:0","Left-footed shot","Marco Verratti",2,1
+"340","Ligue 1 ","36","5/8/22","Home","Paris Saint-Germain","ESTAC Troyes","2:2","LW",25,"2:0","Penalty","Not Applicable",2,2
+"341","Ligue 1 ","38","5/21/22","Home","Paris Saint-Germain","FC Metz","5:0","LW",31,"3:0","Right-footed shot","Not Applicable",5,0
+"342","Trophée des Champions ","Finale","7/31/22","Home","Paris Saint-Germain","FC Nantes","4:0","LW",455,"2:0","Direct free kick","Not Applicable",4,0
+"343","Trophée des Champions ","Finale","7/31/22","Home","Paris Saint-Germain","FC Nantes","4:0","LW",82,"4:0","Penalty","Not Applicable",4,0
+"344","Ligue 1 ","1","8/6/22","Away","Paris Saint-Germain","Clermont Foot 63","0:5","LW",9,"0:1","Right-footed shot","Lionel Messi",0,5
+"345","Ligue 1 ","2","8/13/22","Home","Paris Saint-Germain","Montpellier HSC","5:2","SS",43,"2:0","Penalty","Not Applicable",5,2
+"346","Ligue 1 ","2","8/13/22","Home","Paris Saint-Germain","Montpellier HSC","5:2","SS",51,"3:0","Header","Not Applicable",5,2
+"347","Ligue 1 ","3","8/21/22","Away","Paris Saint-Germain","LOSC Lille","1:7","LW",43,"0:4","Right-footed shot","Not Applicable",1,7
+"348","Ligue 1 ","3","8/21/22","Away","Paris Saint-Germain","LOSC Lille","1:7","LW",52,"0:5","Right-footed shot","Achraf Hakimi",1,7
+"349","Ligue 1 ","4","8/28/22","Home","Paris Saint-Germain","AS Monaco","1:1","LW",70,"1:1","Penalty","Not Applicable",1,1
+"350","Ligue 1 ","5","8/31/22","Away","Paris Saint-Germain","FC Toulouse","0:3","LW",37,"0:1","Right-footed shot","Lionel Messi",0,3
+"351","Ligue 1 ","7","9/10/22","Home","Paris Saint-Germain","Stade Brestois 29","1:0","SS",30,"1:0","Left-footed shot","Lionel Messi",1,0
+"352","UEFA Champions League ","Gruppenphase","9/14/22","Away","Paris Saint-Germain","Maccabi Haifa","1:3","LW",88,"1:3","Left-footed shot","Marco Verratti",1,3
+"353","Ligue 1 ","11","10/16/22","Home","Paris Saint-Germain","Olympique Marseille","1:0","AM",452,"1:0","Right-footed shot","Kylian Mbappé",1,0
+"354","UEFA Champions League ","Gruppenphase","10/25/22","Home","Paris Saint-Germain","Maccabi Haifa","7:2","AM",35,"3:0","Right-footed shot","Lionel Messi",7,2
+"355","Ligue 1 ","13","10/29/22","Home","Paris Saint-Germain","ESTAC Troyes","4:3","LW",62,"3:2","Right-footed shot","Lionel Messi",4,3
+"356","Ligue 1 ","14","11/6/22","Away","Paris Saint-Germain","FC Lorient","1:2","AM",9,"0:1","Left-footed shot","Hugo Ekitiké",1,2
+"357","Coupe de France ","6.Runde","1/23/23","Away","Paris Saint-Germain","US Pays de Cassel","0:7","LW",33,"0:2","Left-footed shot","Kylian Mbappé",0,7
+"358","Ligue 1 ","20","1/29/23","Home","Paris Saint-Germain","Stade Reims","1:1","LW",51,"1:0","Left-footed shot","Juan Bernat",1,1
+"359","Ligue 1 ","24","2/19/23","Home","Paris Saint-Germain","LOSC Lille","4:3","AM",17,"2:0","Right-footed shot","Vitinha",4,3
+"360","AFC Champions League ","Gruppenphase","10/3/23","Away","Al-Hilal SFC","FC Nassaji Mazandaran","0:3","AM",58,"0:2","Left-footed shot","Nasser Al-Dawsari",0,3

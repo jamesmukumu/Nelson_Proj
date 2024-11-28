@@ -1,0 +1,6 @@
+
+	Pearson's Chi-squared test
+
+data:  contingency_table
+X-squared = NaN, df = 20, p-value = NA
+
